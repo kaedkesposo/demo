@@ -1,2 +1,0 @@
-def districting(config):
-    return
